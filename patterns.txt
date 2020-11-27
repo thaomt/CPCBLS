@@ -1,0 +1,486 @@
+Iteration 1:
+Possible word combinations for this iteration: 100
+20379:[Male]
+7725:[Not-in-family]
+4038:[Prof-specialty]
+3212:[Unmarried]
+22286:[Private]
+22653:[<=50K]
+4214:[Divorced]
+3992:[Exec-managerial]
+3584:[Sales]
+9782:[Female]
+5043:[Bachelors]
+27503:[United-States]
+9725:[Never-married]
+7508:[>50K]
+3720:[Adm-clerical]
+4030:[Craft-repair]
+14065:[Married-civ-spouse]
+4466:[Own-child]
+9840:[HS-grad]
+6678:[Some-college]
+12463:[Husband]
+25932:[White]
+3212:[Other-service]
+ -> Iteration 1 took 0.951 seconds to complete and yielded 23 combinations as a result.
+
+Iteration 2:
+Possible word combinations for this iteration: 253
+4159:[Not-in-family, Male]
+14644:[Male, Private]
+13983:[Male, <=50K]
+3521:[Male, Bachelors]
+18571:[United-States, Male]
+5413:[Male, Never-married]
+6396:[Male, >50K]
+3814:[Craft-repair, Male]
+12585:[Male, Married-civ-spouse]
+6734:[Male, HS-grad]
+4171:[Male, Some-college]
+12462:[Husband, Male]
+18037:[White, Male]
+5899:[Not-in-family, Private]
+6902:[Not-in-family, <=50K]
+3566:[Not-in-family, Female]
+7129:[Not-in-family, United-States]
+4447:[Not-in-family, Never-married]
+6675:[Not-in-family, White]
+3693:[United-States, Prof-specialty]
+3575:[White, Prof-specialty]
+17410:[<=50K, Private]
+3093:[Divorced, Private]
+7642:[Female, Private]
+3455:[Private, Bachelors]
+20135:[United-States, Private]
+8025:[Private, Never-married]
+4876:[>50K, Private]
+3146:[Craft-repair, Private]
+9550:[Private, Married-civ-spouse]
+3816:[Own-child, Private]
+7678:[Private, HS-grad]
+5016:[Private, Some-college]
+8411:[Husband, Private]
+19137:[White, Private]
+3762:[Divorced, <=50K]
+8670:[<=50K, Female]
+20508:[United-States, <=50K]
+9255:[<=50K, Never-married]
+3222:[<=50K, Adm-clerical]
+3122:[Craft-repair, <=50K]
+7666:[<=50K, Married-civ-spouse]
+4402:[Own-child, <=50K]
+8223:[<=50K, HS-grad]
+5342:[<=50K, Some-college]
+6784:[Husband, <=50K]
+19093:[White, <=50K]
+3080:[<=50K, Other-service]
+3993:[Divorced, United-States]
+3618:[White, Divorced]
+3735:[United-States, Exec-managerial]
+3595:[White, Exec-managerial]
+3364:[Sales, United-States]
+3192:[Sales, White]
+8932:[United-States, Female]
+4312:[Female, Never-married]
+3106:[Female, HS-grad]
+7895:[White, Female]
+4617:[United-States, Bachelors]
+4447:[White, Bachelors]
+8875:[United-States, Never-married]
+6995:[United-States, >50K]
+3448:[United-States, Adm-clerical]
+3685:[Craft-repair, United-States]
+12798:[United-States, Married-civ-spouse]
+4186:[Own-child, United-States]
+9209:[United-States, HS-grad]
+6260:[United-States, Some-college]
+11415:[Husband, United-States]
+24217:[White, United-States]
+3929:[Own-child, Never-married]
+8035:[White, Never-married]
+6399:[>50K, Married-civ-spouse]
+5679:[Husband, >50K]
+6839:[White, >50K]
+3052:[White, Adm-clerical]
+3644:[Craft-repair, White]
+4571:[Married-civ-spouse, HS-grad]
+12454:[Husband, Married-civ-spouse]
+12656:[White, Married-civ-spouse]
+3765:[Own-child, White]
+4058:[Husband, HS-grad]
+8401:[White, HS-grad]
+5705:[White, Some-college]
+11323:[Husband, White]
+ -> Iteration 2 took 2.240 seconds to complete and yielded 85 combinations as a result.
+
+Iteration 3:
+Possible word combinations for this iteration: 1033
+3142:[Not-in-family, Male, Private]
+3611:[Not-in-family, Male, <=50K]
+3801:[Not-in-family, United-States, Male]
+3596:[Not-in-family, White, Male]
+10489:[Male, <=50K, Private]
+13209:[United-States, Male, Private]
+4445:[Male, Private, Never-married]
+4155:[Male, >50K, Private]
+8506:[Male, Private, Married-civ-spouse]
+5087:[Male, Private, HS-grad]
+3024:[Male, Private, Some-college]
+8410:[Husband, Male, Private]
+12924:[White, Male, Private]
+12600:[United-States, Male, <=50K]
+5106:[Male, <=50K, Never-married]
+6886:[Male, <=50K, Married-civ-spouse]
+5330:[Male, <=50K, HS-grad]
+3020:[Male, <=50K, Some-college]
+6783:[Husband, Male, <=50K]
+12169:[White, Male, <=50K]
+3241:[United-States, Male, Bachelors]
+3185:[White, Male, Bachelors]
+4899:[United-States, Male, Never-married]
+5971:[United-States, Male, >50K]
+3489:[Craft-repair, United-States, Male]
+11498:[United-States, Male, Married-civ-spouse]
+6332:[United-States, Male, HS-grad]
+3914:[United-States, Male, Some-college]
+11414:[Husband, United-States, Male]
+16847:[White, United-States, Male]
+4580:[White, Male, Never-married]
+5699:[Male, >50K, Married-civ-spouse]
+5679:[Husband, Male, >50K]
+5868:[White, Male, >50K]
+3476:[Craft-repair, White, Male]
+4090:[Male, Married-civ-spouse, HS-grad]
+12453:[Husband, Male, Married-civ-spouse]
+11416:[White, Male, Married-civ-spouse]
+4057:[Husband, Male, HS-grad]
+5923:[White, Male, HS-grad]
+3678:[White, Male, Some-college]
+11322:[Husband, White, Male]
+5343:[Not-in-family, <=50K, Private]
+5397:[Not-in-family, United-States, Private]
+3518:[Not-in-family, Private, Never-married]
+5130:[Not-in-family, White, Private]
+3291:[Not-in-family, <=50K, Female]
+6352:[Not-in-family, United-States, <=50K]
+4040:[Not-in-family, <=50K, Never-married]
+5935:[Not-in-family, White, <=50K]
+3328:[Not-in-family, United-States, Female]
+3079:[Not-in-family, White, Female]
+4086:[Not-in-family, United-States, Never-married]
+6278:[Not-in-family, White, United-States]
+3840:[Not-in-family, White, Never-married]
+3393:[White, United-States, Prof-specialty]
+6921:[<=50K, Female, Private]
+15594:[United-States, <=50K, Private]
+7706:[<=50K, Private, Never-married]
+5403:[<=50K, Private, Married-civ-spouse]
+3770:[Own-child, <=50K, Private]
+6567:[<=50K, Private, HS-grad]
+4105:[<=50K, Private, Some-college]
+4726:[Husband, <=50K, Private]
+14670:[White, <=50K, Private]
+6926:[United-States, Female, Private]
+3580:[Female, Private, Never-married]
+6213:[White, Female, Private]
+3142:[United-States, Private, Bachelors]
+3069:[White, Private, Bachelors]
+7270:[United-States, Private, Never-married]
+4541:[United-States, >50K, Private]
+8591:[United-States, Private, Married-civ-spouse]
+3572:[Own-child, United-States, Private]
+7148:[United-States, Private, HS-grad]
+4678:[United-States, Private, Some-college]
+7627:[Husband, United-States, Private]
+17728:[White, United-States, Private]
+3383:[Own-child, Private, Never-married]
+6688:[White, Private, Never-married]
+4147:[>50K, Private, Married-civ-spouse]
+3685:[Husband, >50K, Private]
+4467:[White, >50K, Private]
+3279:[Private, Married-civ-spouse, HS-grad]
+8405:[Husband, Private, Married-civ-spouse]
+8560:[White, Private, Married-civ-spouse]
+3232:[Own-child, White, Private]
+6553:[White, Private, HS-grad]
+4306:[White, Private, Some-college]
+7628:[Husband, White, Private]
+3564:[Divorced, United-States, <=50K]
+3219:[White, Divorced, <=50K]
+7908:[United-States, <=50K, Female]
+4149:[<=50K, Female, Never-married]
+6924:[White, <=50K, Female]
+8434:[United-States, <=50K, Never-married]
+6839:[United-States, <=50K, Married-civ-spouse]
+4128:[Own-child, United-States, <=50K]
+7668:[United-States, <=50K, HS-grad]
+4993:[United-States, <=50K, Some-college]
+6110:[Husband, United-States, <=50K]
+17678:[White, United-States, <=50K]
+3896:[Own-child, <=50K, Never-married]
+7621:[White, <=50K, Never-married]
+3112:[<=50K, Married-civ-spouse, HS-grad]
+6779:[Husband, <=50K, Married-civ-spouse]
+6797:[White, <=50K, Married-civ-spouse]
+3708:[Own-child, White, <=50K]
+6913:[White, <=50K, HS-grad]
+4493:[White, <=50K, Some-college]
+6097:[Husband, White, <=50K]
+3466:[White, Divorced, United-States]
+3444:[White, United-States, Exec-managerial]
+3065:[Sales, White, United-States]
+3976:[United-States, Female, Never-married]
+7370:[White, United-States, Female]
+3455:[White, Female, Never-married]
+4242:[White, United-States, Bachelors]
+3697:[Own-child, United-States, Never-married]
+7488:[White, United-States, Never-married]
+5959:[United-States, >50K, Married-civ-spouse]
+5305:[Husband, United-States, >50K]
+6539:[White, United-States, >50K]
+3391:[Craft-repair, White, United-States]
+4293:[United-States, Married-civ-spouse, HS-grad]
+11406:[Husband, United-States, Married-civ-spouse]
+11854:[White, United-States, Married-civ-spouse]
+3591:[Own-child, White, United-States]
+3835:[Husband, United-States, HS-grad]
+7984:[White, United-States, HS-grad]
+5451:[White, United-States, Some-college]
+10641:[Husband, White, United-States]
+3327:[Own-child, White, Never-married]
+5675:[Husband, >50K, Married-civ-spouse]
+5859:[White, >50K, Married-civ-spouse]
+5226:[Husband, White, >50K]
+4053:[Husband, Married-civ-spouse, HS-grad]
+4109:[White, Married-civ-spouse, HS-grad]
+11314:[Husband, White, Married-civ-spouse]
+3681:[Husband, White, HS-grad]
+ -> Iteration 3 took 8.410 seconds to complete and yielded 140 combinations as a result.
+
+Iteration 4:
+Possible word combinations for this iteration: 1913
+3284:[Not-in-family, United-States, Male, <=50K]
+3102:[Not-in-family, White, Male, <=50K]
+3357:[Not-in-family, White, United-States, Male]
+9330:[United-States, Male, <=50K, Private]
+4237:[Male, <=50K, Private, Never-married]
+4805:[Male, <=50K, Private, Married-civ-spouse]
+4123:[Male, <=50K, Private, HS-grad]
+4725:[Husband, Male, <=50K, Private]
+9092:[White, Male, <=50K, Private]
+3986:[United-States, Male, Private, Never-married]
+3879:[United-States, Male, >50K, Private]
+7691:[United-States, Male, Private, Married-civ-spouse]
+4757:[United-States, Male, Private, HS-grad]
+7626:[Husband, United-States, Male, Private]
+11956:[White, United-States, Male, Private]
+3772:[White, Male, Private, Never-married]
+3701:[Male, >50K, Private, Married-civ-spouse]
+3685:[Husband, Male, >50K, Private]
+3832:[White, Male, >50K, Private]
+8404:[Husband, Male, Private, Married-civ-spouse]
+7699:[White, Male, Private, Married-civ-spouse]
+4467:[White, Male, Private, HS-grad]
+7627:[Husband, White, Male, Private]
+4611:[United-States, Male, <=50K, Never-married]
+6177:[United-States, Male, <=50K, Married-civ-spouse]
+4986:[United-States, Male, <=50K, HS-grad]
+6109:[Husband, United-States, Male, <=50K]
+11228:[White, United-States, Male, <=50K]
+4309:[White, Male, <=50K, Never-married]
+6778:[Husband, Male, <=50K, Married-civ-spouse]
+6174:[White, Male, <=50K, Married-civ-spouse]
+4630:[White, Male, <=50K, HS-grad]
+6096:[Husband, White, Male, <=50K]
+3049:[White, United-States, Male, Bachelors]
+4236:[White, United-States, Male, Never-married]
+5321:[United-States, Male, >50K, Married-civ-spouse]
+5305:[Husband, United-States, Male, >50K]
+5619:[White, United-States, Male, >50K]
+3236:[Craft-repair, White, United-States, Male]
+3862:[United-States, Male, Married-civ-spouse, HS-grad]
+11405:[Husband, United-States, Male, Married-civ-spouse]
+10711:[White, United-States, Male, Married-civ-spouse]
+3834:[Husband, United-States, Male, HS-grad]
+5652:[White, United-States, Male, HS-grad]
+3524:[White, United-States, Male, Some-college]
+10640:[Husband, White, United-States, Male]
+5675:[Husband, Male, >50K, Married-civ-spouse]
+5242:[White, Male, >50K, Married-civ-spouse]
+5226:[Husband, White, Male, >50K]
+4052:[Husband, Male, Married-civ-spouse, HS-grad]
+3703:[White, Male, Married-civ-spouse, HS-grad]
+11313:[Husband, White, Male, Married-civ-spouse]
+3680:[Husband, White, Male, HS-grad]
+4872:[Not-in-family, United-States, <=50K, Private]
+3240:[Not-in-family, <=50K, Private, Never-married]
+4627:[Not-in-family, White, <=50K, Private]
+3204:[Not-in-family, United-States, Private, Never-married]
+4793:[Not-in-family, White, United-States, Private]
+3066:[Not-in-family, White, Private, Never-married]
+3068:[Not-in-family, United-States, <=50K, Female]
+3701:[Not-in-family, United-States, <=50K, Never-married]
+5566:[Not-in-family, White, United-States, <=50K]
+3480:[Not-in-family, White, <=50K, Never-married]
+3599:[Not-in-family, White, United-States, Never-married]
+6264:[United-States, <=50K, Female, Private]
+3469:[<=50K, Female, Private, Never-married]
+5578:[White, <=50K, Female, Private]
+6972:[United-States, <=50K, Private, Never-married]
+4735:[United-States, <=50K, Private, Married-civ-spouse]
+3530:[Own-child, United-States, <=50K, Private]
+6089:[United-States, <=50K, Private, HS-grad]
+3814:[United-States, <=50K, Private, Some-college]
+4187:[Husband, United-States, <=50K, Private]
+13452:[White, United-States, <=50K, Private]
+3359:[Own-child, <=50K, Private, Never-married]
+6403:[White, <=50K, Private, Never-married]
+4722:[Husband, <=50K, Private, Married-civ-spouse]
+4745:[White, <=50K, Private, Married-civ-spouse]
+3191:[Own-child, White, <=50K, Private]
+5520:[White, <=50K, Private, HS-grad]
+3475:[White, <=50K, Private, Some-college]
+4220:[Husband, White, <=50K, Private]
+3284:[United-States, Female, Private, Never-married]
+5772:[White, United-States, Female, Private]
+3178:[Own-child, United-States, Private, Never-married]
+6194:[White, United-States, Private, Never-married]
+3856:[United-States, >50K, Private, Married-civ-spouse]
+3440:[Husband, United-States, >50K, Private]
+4276:[White, United-States, >50K, Private]
+3066:[United-States, Private, Married-civ-spouse, HS-grad]
+7621:[Husband, United-States, Private, Married-civ-spouse]
+7942:[White, United-States, Private, Married-civ-spouse]
+3080:[Own-child, White, United-States, Private]
+6204:[White, United-States, Private, HS-grad]
+4102:[White, United-States, Private, Some-college]
+7106:[Husband, White, United-States, Private]
+3683:[Husband, >50K, Private, Married-civ-spouse]
+3815:[White, >50K, Private, Married-civ-spouse]
+3408:[Husband, White, >50K, Private]
+7622:[Husband, White, Private, Married-civ-spouse]
+3082:[White, Divorced, United-States, <=50K]
+3823:[United-States, <=50K, Female, Never-married]
+6450:[White, United-States, <=50K, Female]
+3312:[White, <=50K, Female, Never-married]
+3668:[Own-child, United-States, <=50K, Never-married]
+7091:[White, United-States, <=50K, Never-married]
+6105:[Husband, United-States, <=50K, Married-civ-spouse]
+6250:[White, United-States, <=50K, Married-civ-spouse]
+3536:[Own-child, White, United-States, <=50K]
+6550:[White, United-States, <=50K, HS-grad]
+4286:[White, United-States, <=50K, Some-college]
+5632:[Husband, White, United-States, <=50K]
+3298:[Own-child, White, <=50K, Never-married]
+6092:[Husband, White, <=50K, Married-civ-spouse]
+3252:[White, United-States, Female, Never-married]
+3183:[Own-child, White, United-States, Never-married]
+5301:[Husband, United-States, >50K, Married-civ-spouse]
+5604:[White, United-States, >50K, Married-civ-spouse]
+5009:[Husband, White, United-States, >50K]
+3830:[Husband, United-States, Married-civ-spouse, HS-grad]
+3926:[White, United-States, Married-civ-spouse, HS-grad]
+10632:[Husband, White, United-States, Married-civ-spouse]
+3532:[Husband, White, United-States, HS-grad]
+5222:[Husband, White, >50K, Married-civ-spouse]
+3676:[Husband, White, Married-civ-spouse, HS-grad]
+ -> Iteration 4 took 15.692 seconds to complete and yielded 125 combinations as a result.
+
+Iteration 5:
+Possible word combinations for this iteration: 1816
+3793:[United-States, Male, <=50K, Private, Never-married]
+4238:[United-States, Male, <=50K, Private, Married-civ-spouse]
+3834:[United-States, Male, <=50K, Private, HS-grad]
+4186:[Husband, United-States, Male, <=50K, Private]
+8281:[White, United-States, Male, <=50K, Private]
+3585:[White, Male, <=50K, Private, Never-married]
+4721:[Husband, Male, <=50K, Private, Married-civ-spouse]
+4278:[White, Male, <=50K, Private, Married-civ-spouse]
+3571:[White, Male, <=50K, Private, HS-grad]
+4219:[Husband, White, Male, <=50K, Private]
+3457:[White, United-States, Male, Private, Never-married]
+3453:[United-States, Male, >50K, Private, Married-civ-spouse]
+3440:[Husband, United-States, Male, >50K, Private]
+3675:[White, United-States, Male, >50K, Private]
+7620:[Husband, United-States, Male, Private, Married-civ-spouse]
+7158:[White, United-States, Male, Private, Married-civ-spouse]
+4246:[White, United-States, Male, Private, HS-grad]
+7105:[Husband, White, United-States, Male, Private]
+3683:[Husband, Male, >50K, Private, Married-civ-spouse]
+3421:[White, Male, >50K, Private, Married-civ-spouse]
+3408:[Husband, White, Male, >50K, Private]
+7621:[Husband, White, Male, Private, Married-civ-spouse]
+3976:[White, United-States, Male, <=50K, Never-married]
+6104:[Husband, United-States, Male, <=50K, Married-civ-spouse]
+5688:[White, United-States, Male, <=50K, Married-civ-spouse]
+4401:[White, United-States, Male, <=50K, HS-grad]
+5631:[Husband, White, United-States, Male, <=50K]
+6091:[Husband, White, Male, <=50K, Married-civ-spouse]
+5301:[Husband, United-States, Male, >50K, Married-civ-spouse]
+5023:[White, United-States, Male, >50K, Married-civ-spouse]
+5009:[Husband, White, United-States, Male, >50K]
+3829:[Husband, United-States, Male, Married-civ-spouse, HS-grad]
+3551:[White, United-States, Male, Married-civ-spouse, HS-grad]
+10631:[Husband, White, United-States, Male, Married-civ-spouse]
+3531:[Husband, White, United-States, Male, HS-grad]
+5222:[Husband, White, Male, >50K, Married-civ-spouse]
+3675:[Husband, White, Male, Married-civ-spouse, HS-grad]
+4309:[Not-in-family, White, United-States, <=50K, Private]
+3252:[Not-in-family, White, United-States, <=50K, Never-married]
+3179:[United-States, <=50K, Female, Private, Never-married]
+5171:[White, United-States, <=50K, Female, Private]
+3157:[Own-child, United-States, <=50K, Private, Never-married]
+5920:[White, United-States, <=50K, Private, Never-married]
+4183:[Husband, United-States, <=50K, Private, Married-civ-spouse]
+4292:[White, United-States, <=50K, Private, Married-civ-spouse]
+3040:[Own-child, White, United-States, <=50K, Private]
+5209:[White, United-States, <=50K, Private, HS-grad]
+3301:[White, United-States, <=50K, Private, Some-college]
+3836:[Husband, White, United-States, <=50K, Private]
+4216:[Husband, White, <=50K, Private, Married-civ-spouse]
+3438:[Husband, United-States, >50K, Private, Married-civ-spouse]
+3650:[White, United-States, >50K, Private, Married-civ-spouse]
+3270:[Husband, White, United-States, >50K, Private]
+7100:[Husband, White, United-States, Private, Married-civ-spouse]
+3406:[Husband, White, >50K, Private, Married-civ-spouse]
+3115:[White, United-States, <=50K, Female, Never-married]
+3155:[Own-child, White, United-States, <=50K, Never-married]
+5627:[Husband, White, United-States, <=50K, Married-civ-spouse]
+5005:[Husband, White, United-States, >50K, Married-civ-spouse]
+3527:[Husband, White, United-States, Married-civ-spouse, HS-grad]
+ -> Iteration 5 took 15.16 seconds to complete and yielded 60 combinations as a result.
+
+Iteration 6:
+Possible word combinations for this iteration: 903
+3278:[White, United-States, Male, <=50K, Private, Never-married]
+4182:[Husband, United-States, Male, <=50K, Private, Married-civ-spouse]
+3877:[White, United-States, Male, <=50K, Private, Married-civ-spouse]
+3379:[White, United-States, Male, <=50K, Private, HS-grad]
+3835:[Husband, White, United-States, Male, <=50K, Private]
+4215:[Husband, White, Male, <=50K, Private, Married-civ-spouse]
+3438:[Husband, United-States, Male, >50K, Private, Married-civ-spouse]
+3281:[White, United-States, Male, >50K, Private, Married-civ-spouse]
+3270:[Husband, White, United-States, Male, >50K, Private]
+7099:[Husband, White, United-States, Male, Private, Married-civ-spouse]
+3406:[Husband, White, Male, >50K, Private, Married-civ-spouse]
+5626:[Husband, White, United-States, Male, <=50K, Married-civ-spouse]
+5005:[Husband, White, United-States, Male, >50K, Married-civ-spouse]
+3526:[Husband, White, United-States, Male, Married-civ-spouse, HS-grad]
+3832:[Husband, White, United-States, <=50K, Private, Married-civ-spouse]
+3268:[Husband, White, United-States, >50K, Private, Married-civ-spouse]
+ -> Iteration 6 took 8.776 seconds to complete and yielded 16 combinations as a result.
+
+Iteration 7:
+Possible word combinations for this iteration: 246
+3831:[Husband, White, United-States, Male, <=50K, Private, Married-civ-spouse]
+3268:[Husband, White, United-States, Male, >50K, Private, Married-civ-spouse]
+ -> Iteration 7 took 2.378 seconds to complete and yielded 2 combinations as a result.
+
+Iteration 8:
+Possible word combinations for this iteration: 31
+ -> Iteration 8 took 0.303 seconds to complete and yielded 0 combinations as a result.
+
+
+The Apriori Algorithm finished after 54.475 seconds!
+
